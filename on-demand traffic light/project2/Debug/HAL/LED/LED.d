@@ -1,0 +1,22 @@
+HAL/LED/LED.d HAL/LED/LED.o: ../HAL/LED/LED.c ../HAL/LED/LED.h \
+ ../HAL/LED/../../LIB/REGISTERS.h ../HAL/LED/../../LIB/STD_TYPE.h \
+ ../HAL/LED/../../LIB/BIT_MATH.h ../HAL/LED/../../MCAL/DIO_DRIVER/DIO.h \
+ ../HAL/LED/../../MCAL/DIO_DRIVER/../../LIB/REGISTERS.h \
+ ../HAL/LED/../../MCAL/DIO_DRIVER/../../LIB/STD_TYPE.h \
+ ../HAL/LED/../../MCAL/DIO_DRIVER/../../LIB/BIT_MATH.h
+
+../HAL/LED/LED.h:
+
+../HAL/LED/../../LIB/REGISTERS.h:
+
+../HAL/LED/../../LIB/STD_TYPE.h:
+
+../HAL/LED/../../LIB/BIT_MATH.h:
+
+../HAL/LED/../../MCAL/DIO_DRIVER/DIO.h:
+
+../HAL/LED/../../MCAL/DIO_DRIVER/../../LIB/REGISTERS.h:
+
+../HAL/LED/../../MCAL/DIO_DRIVER/../../LIB/STD_TYPE.h:
+
+../HAL/LED/../../MCAL/DIO_DRIVER/../../LIB/BIT_MATH.h:
